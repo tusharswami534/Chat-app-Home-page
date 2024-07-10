@@ -283,6 +283,9 @@ section .container .row .col-3 .box .footer-fonts {
     font-weight: 400;
     line-height: 24.25px;
 }
+.max-583{
+    max-width: 583px;
+}
 
 
 a {
